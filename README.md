@@ -1,6 +1,7 @@
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
 
->웹서비스플랫폼 과제 : `홈페이지.zip`파일 다운받은 후, `index.html`파일을 열어서 확인하면 됩니다.
+>홈페이지 접속 방법 : 주소창에 `kimxminsu.github.io`를 입력하세요.
+>[0508] : 홈페이지 상단의 Homework 탭 클릭시, `formVal.html`링크가 나타납니다.
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
